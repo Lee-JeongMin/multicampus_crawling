@@ -28,6 +28,6 @@
 2. google email에서 비밀번호 얻고 이메일을 보내고 받기 위한 설정을 한다. 
 3. MariaDB를 설치하고 DB를 생성한다.
 4. weather_crawling.ipynb에서 API key를 입력한다.
-5. main.ipynb 4번째 셀에서 DB의 이름과 비밀번호를 입력하고, 11번째 셀에서 이메일과 비밀번호를 입력한다.
+5. main.ipynb 4번째 셀에서 DB의 이름과 password를 입력하고, 11번째 셀에서 email과 password를 입력한다.
 6. main.ipynb의 모든 셀을 실행시키면 된다.
 7. 필요에 따라 각 * _crawling.ipynb 에서 날짜의 범위를 수정해 사용하면 된다. 
