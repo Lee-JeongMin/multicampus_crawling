@@ -22,3 +22,12 @@
 
 - 음악 정보(Melon) <https://www.melon.com/dj/djfinder/djfinder_inform.htm>
   * 날짜, 노래, 가수, 좋아요 수
+
+## 사용법
+1. 날씨 사이트에서 API key를 얻는다.
+2. google email에서 비밀번호 얻고 이메일을 보내고 받기 위한 설정을 한다. 
+3. MariaDB를 설치하고 DB를 생성한다.
+4. weather_crawling.ipynb에서 API key를 입력한다.
+5. main.ipynb 4번째 셀에서 DB의 이름과 비밀번호를 입력하고, 13번째 셀에서 이메일과 비밀번호를 입력한다.
+6. main.ipynb의 모든 셀을 실행시키면 된다.
+(-필요에 따라 각 * _crawling.ipynb 에서 날짜의 범위를 수정해 사용하면 된다. )
