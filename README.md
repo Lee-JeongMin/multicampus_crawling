@@ -30,4 +30,4 @@
 4. weather_crawling.ipynb에서 API key를 입력한다.
 5. main.ipynb 4번째 셀에서 DB의 이름과 비밀번호를 입력하고, 13번째 셀에서 이메일과 비밀번호를 입력한다.
 6. main.ipynb의 모든 셀을 실행시키면 된다.
-(-필요에 따라 각 * _crawling.ipynb 에서 날짜의 범위를 수정해 사용하면 된다. )
+7. 필요에 따라 각 * _crawling.ipynb 에서 날짜의 범위를 수정해 사용하면 된다. 
